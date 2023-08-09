@@ -61,7 +61,7 @@ fun MessageCard(msg: Message) {
                 .border(1.5.dp, MaterialTheme.colorScheme.secondary, CircleShape)
         )
 
-
+        //FORMA Y ELEVACION DEL CUERPO DEL MENSAJE
         Spacer(modifier = Modifier.width(8.dp))
 
         //VERIFICACIÓN ESTADO
