@@ -1,4 +1,5 @@
-- En este caso para arreglar el estilo lo cambié de los archivos en los cuales tengo conocimiento, pero no me acarraban los cambios de color, por ende no pude realizar lo propuesto de la actividad, sin embargo, seguiré buscando la forma hasta aprender correctament- Algo que me pareció importante para realizar este proyecto es el proceso que se lleva a cabo ya que esto inicia con un ciclo de vida, una vez llamada la actividad
+- En este caso para arreglar el estilo lo cambié de los archivos en los cuales tengo conocimiento, pero no me acarraban los cambios de color, por ende no pude realizar lo propuesto de la actividad,
+  - Algo que me pareció importante para realizar este proyecto es el proceso que se lleva a cabo ya que esto inicia con un ciclo de vida, una vez llamada la actividad
   - Algo interesante es el ComposeTheme que proporciona los estilos.
   - La función para mostrar la lista de mensajes con el componente LazyColumn.
   - El mensajeCard que es un mensaje que se expande para mostrar u ocultar el cuerpo del mensaje.
